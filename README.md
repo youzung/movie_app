@@ -1,2 +1,2 @@
-# movie_app
-Make a movie app by using React
+# movie_app(First React Project)
+
