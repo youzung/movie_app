@@ -1,8 +1,8 @@
 ## Making a Movie app by using React
 
-[](src/img/main.PNG)
+![](src/img/main.PNG)
 
-[](src/img/main2.PNG)
+![](src/img/main2.PNG)
 
 
 
